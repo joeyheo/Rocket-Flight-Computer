@@ -26,8 +26,10 @@
 
   <h3 align="center">Rocket-Flight-Computer-Software</h3>
 
-  <p align="center">
+ <h4>
     Vega Space &amp; VPL's Flight Software
+ </h4>
+     <p align="center">
 Nuri is our 2nd generation launch computer, specifically built for low altitude launch. It uses Arduino Nano as the main processor; GY-521 for the accelerometer and gyro meter; BME280 for pressure, humidity, temperature, and altitude; nRF24L01+ for our Radio Communications; and MicroSD card Adapter for saving all the data to a SD card
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
