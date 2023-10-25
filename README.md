@@ -53,6 +53,20 @@ Developed and maintained by Vega Space & Vega Propulsion Laboratory (Joey Heo), 
 
 [Nuri_V1_2022-07-25.zip](https://github.com/joeyheo/Rocket-Flight-Computer-Software/files/13162097/Nuri_V1_2022-07-25.zip)
 
----
 
+## Disclaimer
+
+The software provided, along with the accompanying electronics, is shared for educational and informational purposes only. By using, applying, or implementing this software and associated electronics, you agree to the following terms:
+
+1. **No Liability**: Joey Heo, Vega Space, Vega Propulsion Laboratory, and any associated entities shall not be held responsible or liable, under any circumstances, for any direct, indirect, special, incidental, or consequential damages, losses, or expenses arising out of or in connection with the use of this software and electronics. This includes, but is not limited to, any fault, error, omission, interruption, or delay with respect thereto.
+
+2. **User's Responsibility**: The user assumes full responsibility for the application, installation, maintenance, and testing of the software and electronics. It is the user's responsibility to ensure safe usage and to understand the limitations and potential risks.
+
+3. **Not for Critical Use**: This software and the associated electronics are not intended for critical applications where failures or discrepancies could result in harm to property, the environment, or human life.
+
+4. **No Warranty**: The software and electronics are provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+By utilizing the provided software and electronics, you acknowledge that you have read, understood, and agreed to the terms set forth in this disclaimer. If you do not agree to these terms, you are advised not to use the software and electronics.
+
+---
 **Note:** This README provides an overview of the Nuri Telemetry System, its features, and components. Before deploying for critical applications, ensure thorough testing in a controlled environment.
