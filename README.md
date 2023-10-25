@@ -1,5 +1,5 @@
 
-![Nuri v14](https://github.com/joeyheo/Rocket-Flight-Computer-Software/assets/73047475/a9634ac0-c7a5-4cc3-b60b-ea12a889238b | width=100px)
+![Nuri v14](https://github.com/joeyheo/Rocket-Flight-Computer-Software/assets/73047475/a9634ac0-c7a5-4cc3-b60b-ea12a889238b)
 
 
 # Nuri Telemetry System (Transmitter & Receiver)
