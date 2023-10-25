@@ -1,3 +1,6 @@
+
+![Nuri v15](https://github.com/joeyheo/Rocket-Flight-Computer-Software/assets/73047475/9ba5bd42-088b-41bf-b206-558890208a37)
+
 # Nuri Telemetry System (Transmitter & Receiver)
 
 Developed and maintained by Vega Space & Vega Propulsion Laboratory (Joey Heo), this telemetry system consists of both transmitter and receiver software. It provides comprehensive telemetry data for rocketry applications, enabling real-time monitoring and post-flight analysis.
