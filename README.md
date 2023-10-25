@@ -47,6 +47,8 @@ Developed and maintained by Vega Space & Vega Propulsion Laboratory (Joey Heo), 
 ## Wiring: 
 
 <img width="592" alt="Screenshot 2023-10-24 at 11 27 37 PM" src="https://github.com/joeyheo/Rocket-Flight-Computer-Software/assets/73047475/4606568a-ed60-4686-9915-87d26cd10677">
+
+
 PCB: [Nuri_V1_2022-07-25.zip](https://github.com/joeyheo/Rocket-Flight-Computer-Software/files/13162097/Nuri_V1_2022-07-25.zip)
 
 ---
